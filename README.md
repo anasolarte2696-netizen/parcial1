@@ -70,3 +70,5 @@ private String editorial;
 public int ejemplaresDisponibles() {
     return ejemplares - prestados;
 }
+
+Actualización final del proyecto.
