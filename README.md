@@ -1,6 +1,5 @@
 # Parcial I - Programación II
-Sistema de gestión de biblioteca desarrollado en Java utilizando POO.
-
+Proyecto de sistema de gestión de biblioteca.
 ## Diagrama UML
 
 ```mermaid
